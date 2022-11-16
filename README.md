@@ -5,6 +5,4 @@ I like to
 - Talk
 - Sleep
 
-theme: jekyll-theme-leap-day
-
-![food](donut.jpg)
+![image](https://user-images.githubusercontent.com/118236079/202057054-682c72b3-9b6d-46cb-bbe9-bf6051983852.png)
