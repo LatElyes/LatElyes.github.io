@@ -12,3 +12,6 @@
 #### Here is my list of music that I consider nice lsitens for anyone who are interested in the music genre I have said above:
 
 [Twelfth Street Rag](https://www.youtube.com/watch?v=aVmcMKSbY6M)
+[Alexander's Rag Time Band](https://www.youtube.com/watch?v=aDZVmW37EnE)
+[Darktown Strutter's Ball](https://www.youtube.com/watch?v=FaSZ6WlC86A)
+[Charleston](https://www.youtube.com/watch?v=WN_PIWkKO5s)
